@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'woocommerce/reddit-for-woocommerce',
-        'pretty_version' => 'dev-release/1.0.8',
-        'version' => 'dev-release/1.0.8',
-        'reference' => 'a563a9c9b451f9f25dabe804c26aa2cedaf4eaa6',
+        'pretty_version' => 'dev-release/1.1.0',
+        'version' => 'dev-release/1.1.0',
+        'reference' => '2522a09a98c4e178173258958a097e42ae035e23',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'woocommerce/reddit-for-woocommerce' => array(
-            'pretty_version' => 'dev-release/1.0.8',
-            'version' => 'dev-release/1.0.8',
-            'reference' => 'a563a9c9b451f9f25dabe804c26aa2cedaf4eaa6',
+            'pretty_version' => 'dev-release/1.1.0',
+            'version' => 'dev-release/1.1.0',
+            'reference' => '2522a09a98c4e178173258958a097e42ae035e23',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
